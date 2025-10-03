@@ -1,8 +1,0 @@
-#include <sttio.h>
-void main(){
-    printf("PIN??: ");
-    sancf("%d", &pin);
-    if(pin==1234) printf("OK!!");
-    else print ("Incorrecte!!");
-    return;
-}
