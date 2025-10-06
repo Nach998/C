@@ -1,7 +1,7 @@
 /***************************
 programa en C que implementa
 el pin sense repetició
-Xavi Blanes curs:25/26
+Nacho Romero curs:25/26
 ***************************/
 #include <stdio.h>
 void main(){
