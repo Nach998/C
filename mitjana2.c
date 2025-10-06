@@ -1,6 +1,6 @@
 /******************************
   Programa Hola món en C
-  Xavi Blanes 1r bat curs 25-26
+  Nacho Romero 1r bat curs 25-26
 ******************************/
 
 #include <stdio.h>
